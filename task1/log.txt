@@ -1,0 +1,12 @@
+$ git log
+commit e24b9c43451f418c8979aa9189ca86913fb975ca
+Author: Oleg Klimec <olegklimec@gmail.com>
+Date:   Thu Feb 9 23:28:42 2017 +0200
+
+    add status.txt
+
+commit 3548b70c14fb695eb09eb3e1cfc1f07a6af12cb0
+Author: Oleg Klimec <olegklimec@gmail.com>
+Date:   Thu Feb 9 23:26:37 2017 +0200
+
+    add .gitignore
